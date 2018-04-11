@@ -25,11 +25,11 @@ serve — запустит Webpack в режими разработки
 К примеру, из `abcdef` получается:
 ```
 abcdef
-abcde
-abcd
-abc
-ab
-a
+bcdef
+cdef
+def
+ef
+f
 ```
 Похожие суффиксы объединяются
 
