@@ -1,8 +1,8 @@
 {
   "name": "example",
   "version": "1.0.0",
-  "repository": "git+https://github.com/nazarov-mi/shri-homework-7.git",
-  "homepage": "https://github.com/nazarov-mi/shri-homework-7/example",
+  "repository": "git+https://github.com/nazarov-mi/shri-homework-10.2.git",
+  "homepage": "https://github.com/nazarov-mi/shri-homework-10.2/example",
   "author": "Nazarov MI",
   "main": "bundle.js",
   "scripts": {
